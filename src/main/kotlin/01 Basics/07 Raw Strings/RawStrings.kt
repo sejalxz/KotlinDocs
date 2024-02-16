@@ -1,4 +1,4 @@
-package `01`.` Basics`.`07 Raw Strings`
+package `01 Basics`.`07 Raw Strings`
 
 fun main(){
 

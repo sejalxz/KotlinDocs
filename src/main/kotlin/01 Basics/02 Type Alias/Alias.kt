@@ -1,4 +1,4 @@
-package `01`.` Basics`.`02 Type Alias`
+package `01 Basics`.`02 Type Alias`
 
 typealias EmployeeSet = Set<Employee>
 

@@ -1,4 +1,4 @@
-package `01`.` Basics`.`05 Smart Casting and Is`
+package `01 Basics`.`05 Smart Casting and Is`
 
 fun main(){
     // In java, we use to cast like this : emp4 = (Employee) emp1

@@ -1,4 +1,4 @@
-package `01`.` Basics`.`04 Bit Operators`
+package `01 Basics`.`04 Bit Operators`
 
 fun main(){
     val x = 100
