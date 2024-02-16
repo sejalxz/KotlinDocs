@@ -1,4 +1,4 @@
-package `06 String Templates`
+package `01`.` Basics`.`06 String Templates`
 
 fun main(){
 

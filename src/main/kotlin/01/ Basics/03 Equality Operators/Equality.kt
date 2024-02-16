@@ -1,4 +1,4 @@
-package `03 Equality Operators`
+package `01`.` Basics`.`03 Equality Operators`
 
 fun main(){
 // There are two types of eqiality operators

@@ -1,4 +1,4 @@
-package `01 Variables Declarations`
+package `01`.` Basics`.`01 Variables Declarations`
 
 fun main(args: Array<String>){
 //    Two types of variables :
